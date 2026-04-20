@@ -1,1 +1,1 @@
-!(picture.png)
+![Image cannot be loaded.](picture.png)
